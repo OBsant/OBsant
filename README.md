@@ -2,8 +2,7 @@
 
 <p>Me chamo Bruno, sou apaixonado por tecnologia e estudante de ciência da computação</p>
 
-![Ocivaldo GitHub stats](https://github-readme-stats.vercel.app/api?username=OBsant&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OBsant&layout=compact)](https://github.com/OBsant/github-readme-stats)
+
 
 <h2>Habilidades:<h2/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
