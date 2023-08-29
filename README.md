@@ -3,8 +3,8 @@
 
 <p>Me chamo Bruno, sou apaixonado por tecnologia e estudante de ciência da computação</p>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OBsant&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Ocivaldo Bruno github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBsant&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OBsant&show_icons=true&theme=transparent" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBsant&layout=compact" />
 
 ### Habilidades:
 <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next&logoColor=white"></img>
