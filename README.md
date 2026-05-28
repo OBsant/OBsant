@@ -3,9 +3,6 @@
 
 <p>Me chamo Bruno, sou apaixonado por tecnologia e estudante de ciência da computação</p>
 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=OBsant&show_icons=true&theme=transparent" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OBsant&layout=compact" />
-
 ### Habilidades:
 <img src="https://img.shields.io/badge/Next.js-white?style=for-the-badge&logo=next&logoColor=white"></img>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></img>
